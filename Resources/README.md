@@ -1,0 +1,18 @@
+# . swift exercises
+
+from [codecademy](https://www.codecademy.com/learn/paths/build-ios-apps-with-swiftui)
+
+to be oppened with playground
+
+Using SWIFT
+### by d_llirium
+
+### . [Hello World](https://github.com/d-llirium/codecademy/tree/main/SwiftExercises.playground/Pages/HelloWorld.xcplaygroundpage)
+### . [Variables](https://github.com/d-llirium/codecademy/tree/main/SwiftExercises.playground/Pages/Variables.xcplaygroundpage)
+### . [Conditionals](https://github.com/d-llirium/codecademy/tree/main/SwiftExercises.playground/Pages/Conditional.xcplaygroundpage)
+### . [Arrays and Loops](https://github.com/d-llirium/codecademy/tree/main/SwiftExercises.playground/Pages/ArraysAndLoops.xcplaygroundpage)
+### . [Dictionaries](https://github.com/d-llirium/codecademy/tree/main/SwiftExercises.playground/Pages/Dictionaries.xcplaygroundpage)
+### . [Functions](https://github.com/d-llirium/codecademy/tree/main/SwiftExercises.playground/Pages/Functions.xcplaygroundpage)
+### . [Structures](https://github.com/d-llirium/codecademy/tree/main/SwiftExercises.playground/Pages/Structures.xcplaygroundpage)
+### . [Property Access Control](https://github.com/d-llirium/codecademy/tree/main/SwiftExercises.playground/Pages/PropertiesAndAccessControl.xcplaygroundpage)
+### . [Classes](https://github.com/d-llirium/codecademy/tree/main/SwiftExercises.playground/Pages/Classes.xcplaygroundpage)
