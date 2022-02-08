@@ -1,5 +1,5 @@
 
-# . swift exercises
+# . swift playground
 
 from [codecademy](https://www.codecademy.com/learn/paths/build-ios-apps-with-swiftui)
 
